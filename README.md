@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siphamandlabili&label=Profile%20views&color=0e75b6&style=flat" alt="siphamandlabili" /> </p>
 
-- 🌱 I’m currently enhancing my expertise in **vanilla JavaScript, React, Firebase, and AWS** to build robust, scalable applications.
+- 🌱 I’m currently enhancing my expertise in **Node.js,docker/kubernetes, redis and  and AWS** to build robust, scalable applications.
   
 - 💬 I specialize in **frontend development**, with a strong foundation in the **MERN stack**, utilizing **MongoDB**, **Express.js**, **React**, and **Node.js** for full-stack development.
 
