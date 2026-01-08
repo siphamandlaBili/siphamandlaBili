@@ -1,42 +1,77 @@
-![MaterHead](https://coursework.vschool.io/content/images/2016/03/javascript-logo-banner.jpg)
+<!-- Banner -->
+<p align="center">
+  <img src="https://coursework.vschool.io/content/images/2016/03/javascript-logo-banner.jpg" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Siphamandla Bili</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
-<img align='right'  height='250px' src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif'>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siphamandlabili&label=Profile%20views&color=0e75b6&style=flat" alt="siphamandlabili" /> </p>
-
-- 🌱 I’m currently enhancing my expertise in **Node.js,docker/kubernetes, redis and  and AWS** to build robust, scalable applications.
-  
-- 💬 I specialize in **frontend development**, with a strong foundation in the **MERN stack**, utilizing **MongoDB**, **Express.js**, **React**, and **Node.js** for full-stack development.
-
-- 💼 Additionally, I am proficient in **AWS services**, with practical experience in leveraging cloud infrastructure to deploy, manage, and scale applications.
-
-- 📫 Feel free to reach out to me at **azilebili@gmail.com**.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/azile_bili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azile_bili" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siphamandlabili&show_icons=true&locale=en&layout=compact" alt="siphamandlabili" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siphamandlabili&show_icons=true&locale=en" alt="siphamandlabili" /></p>
+<h3 align="center">Frontend Developer | MERN Stack | Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siphamandlabili" alt="siphamandlabili" />
+  <img src="https://komarev.com/ghpvc/?username=siphamandlaBili&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🌱 Learning **Node.js, Docker, Kubernetes, Redis & AWS**
+- 💻 Frontend Developer with strong **MERN Stack** experience
+- ☁️ Experience deploying scalable apps using **AWS**
+- 📫 Email: **azilebili@gmail.com**
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/siphamandla-bili-32797926a">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" />
+  </a>
+
+  <a href="https://instagram.com/azile_bili">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" />
+  <img src="https://cdn.simpleicons.org/node.js/339933" width="40" />
+  <img src="https://cdn.simpleicons.org/express/000000" width="40" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=siphamandlaBili&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=siphamandlaBili&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=siphamandlaBili&theme=tokyonight&hide_border=true"
+  />
 </p>
